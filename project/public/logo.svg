@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Palm tree -->
+    <path d="M256 80C256 80 220 120 220 160C220 200 256 280 256 280C256 280 292 200 292 160C292 120 256 80 256 80Z" fill="currentColor"/>
+    
+    <!-- Pen nib -->
+    <path d="M256 280L226 320L256 400L286 320L256 280Z" fill="currentColor"/>
+    <path d="M226 320H286L256 280L226 320Z" fill="currentColor"/>
+    
+    <!-- Text -->
+    <path d="M128 420H384V460H128V420Z" fill="currentColor"/>
+  </g>
+  
+  <style>
+    svg { color: #ffffff; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #000000; }
+    }
+  </style>
+</svg>
